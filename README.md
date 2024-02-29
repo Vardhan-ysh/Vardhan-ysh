@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently pursuing B.Tech from JSSATE, Noida with Artificial Intelligence and Machine Learning. <br>Skilled in problem solving and DSA topics in Java, Python, and C. <br>Android Developer with proficiency in Flutter framework and Dart language.<br><br>Currently seeking internship opportunities to expand skill set.<br><br>Yashvardhan Singh,<br>yashvardhansingh112233@gmail.com<br><br>
+Currently pursuing B.Tech from JSSATE, Noida with Artificial Intelligence and Machine Learning. <br>Skilled in problem solving and DSA topics in Java, Python, and C. <br>Android Developer with proficiency in Flutter framework and Dart language.<br><br>Currently seeking internship opportunities to expand skill set.<br><br>Yashvardhan Singh,<br>https://www.linkedin.com/in/vardhan-ysh<br><br>
 <br><br>
 
 ## 🎨 Skills:
@@ -10,11 +10,6 @@ Currently pursuing B.Tech from JSSATE, Noida with Artificial Intelligence and Ma
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vardhan-ysh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vardhan_ysh)
-
 
 
 ## 💻 Tech Stack:
