@@ -2,7 +2,7 @@
 Currently pursuing B.Tech from JSSATE, Noida with Artificial Intelligence and Machine Learning. <br>Skilled in problem solving and DSA topics in Java, Python, and C. <br>Android Developer with proficiency in Flutter framework and Dart language.<br><br>Currently seeking internship opportunities to expand skill set.<br><br>Yashvardhan Singh,<br>yashvardhansingh112233@gmail.com<br><br>
 <br><br>
 
-# 💫 Skills:
+## 🎨 Skills:
 <br>⭕Android Development (Flutter & Dart)<br>⭕Problem Solving (Java, Python)
 
 ##### Visitor Count
