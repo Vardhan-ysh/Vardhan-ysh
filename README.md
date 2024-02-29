@@ -9,16 +9,20 @@ Currently pursuing B.Tech from JSSATE, Noida with Artificial Intelligence and Ma
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vardhan-ysh&label=Profile%20views&color=0e75b6&style=flat" alt="Vardhan-ysh" /> </p>
 <br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vardhan-ysh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vardhan_ysh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vardhan-ysh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vardhan_ysh)
+
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 # 📊 Languages:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Vardhan-ysh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vardhan-ysh&theme=gruvbox&hide_border=true)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vardhan-ysh&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
