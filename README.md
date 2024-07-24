@@ -1,17 +1,48 @@
-[![MasterHead](https://lh3.googleusercontent.com/drive-viewer/AKGpiha2llYLdUbvAvoeWwmfiOxT4traHtAk0ga4IpL-3tLccv1tvRrDfBEQhKDNPCEe1rQEOIirjKjqEX3u-b7EAqMbwQfyl56y4iw=s2560)](https://rishavchanda.io)
-# 💫 About Me:
-Currently pursuing B.Tech from JSSATE, Noida with Artificial Intelligence and Machine Learning. <br>Skilled in problem solving and DSA topics in Java, Python, and C. <br>Android Developer with proficiency in Flutter framework and Dart language.<br><br>Currently seeking internship opportunities to expand skill set.<br><br>⭕Android Development (Flutter & Dart)<br>⭕Problem Solving (Java, Python)<br><br>Yashvardhan Singh,<br><br><br>Connect at: https://www.linkedin.com/in/vardhan-ysh<br><br><br>
-<br><br>
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 30%; text-align: center; vertical-align: top;">
+      <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpiha2llYLdUbvAvoeWwmfiOxT4traHtAk0ga4IpL-3tLccv1tvRrDfBEQhKDNPCEe1rQEOIirjKjqEX3u-b7EAqMbwQfyl56y4iw=s2560" alt="MasterHead" style="max-width: 100%; height: auto;" />
+    </td>
+    <td style="width: 70%; padding-left: 20px; vertical-align: top; text-align: left;">
+      <h1>💫 About Me:</h1>
+      <p>Sophomore at JSSATE Noida, pursuing B.Tech with Computer Science.</p>
+      <p>Developing creative mobile apps and bringing ideas to reality.</p>
+      <br>
+      <hr>
+      <h3 align="left">Connect with me:</h3>
+<p align="left" >
+<a href="https://linkedin.com/in/vardhan-ysh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="yashvardhan singh" height="40" width="40" /></a>
+<a href="https://instagram.com/vardhan.ysh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="vardhan.ysh" height="40" width="40" /></a>
+<a href="https://x.com/vardhan_ysh" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="@vardhan_ysh" height="40" width="40" /></a>
+</p>
+    </td>
+  </tr>
+</table>
 
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vardhan-ysh&label=Profile%20views&color=0e75b6&style=flat" alt="Vardhan-ysh" /> </p>
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+📫 Reach me @**yashvardhansingh112233@gmail.com**
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&layout=donut&theme=dark#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=Vardhan-ysh&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<h1 align="center">🧑‍💻 Tech Stack:</h1>
+<p align="left"> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+
+
+<p align="center">
+  <img src="https://www.bing.com/th/id/OGC.1e2b8a2af09c72ebbc1c7121fa68e84e?pid=1.7&rurl=https%3a%2f%2fwww.mindinventory.com%2fblog%2fwp-content%2fuploads%2f2022%2f10%2fflutter-firebase.gif&ehk=mj6owfmqGFyEC8ycYO3k4fPZJIct0MWgO5HijX7IZVc%3d" alt="MasterHead" />
+</p>
