@@ -1,23 +1,18 @@
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 30%; text-align: center; vertical-align: top;">
-      <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpiha2llYLdUbvAvoeWwmfiOxT4traHtAk0ga4IpL-3tLccv1tvRrDfBEQhKDNPCEe1rQEOIirjKjqEX3u-b7EAqMbwQfyl56y4iw=s2560" alt="MasterHead" style="max-width: 100%; height: auto;" />
-    </td>
-    <td style="width: 70%; padding-left: 20px; vertical-align: top; text-align: left;">
-      <h1>💫 About Me:</h1>
-      <p>Sophomore at JSSATE Noida, pursuing B.Tech with Computer Science.</p>
-      <p>Developing creative mobile apps and bringing ideas to reality.</p>
-      <br>
-      <hr>
-      <h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/vardhan-ysh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="yashvardhan singh" height="40" width="40" /></a>
-<a href="https://instagram.com/vardhan.ysh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="vardhan.ysh" height="40" width="40" /></a>
-<a href="https://x.com/vardhan_ysh" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="@vardhan_ysh" height="40" width="40" /></a>
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpiha2llYLdUbvAvoeWwmfiOxT4traHtAk0ga4IpL-3tLccv1tvRrDfBEQhKDNPCEe1rQEOIirjKjqEX3u-b7EAqMbwQfyl56y4iw=s2560" alt="MasterHead" />
 </p>
-    </td>
-  </tr>
-</table>
+
+<br>
+
+<h1 align="center">💫 About Me:</h1>
+<ul>
+  <li>Sophomore at JSSATE Noida, pursuing B.Tech with Computer Science.</li>
+  <li>Developing creative cross-platform mobile apps and bringing ideas to reality.</li>
+  <li>Actively diving into the world of competitive programming, finding harder and harder problems to solve each day.</li>
+  <li>Learning skills in AI and Cloud Computing.</li>
+</ul>
+<p>Yashvardhan Singh</p>
+<br>
 
 
 <br>
@@ -26,9 +21,19 @@
 
 <br>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left" >
+<a href="https://linkedin.com/in/vardhan-ysh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="yashvardhan singh" height="40" width="40" /></a>
+<a href="https://instagram.com/vardhan.ysh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="vardhan.ysh" height="40" width="40" /></a>
+<a href="https://x.com/vardhan_ysh" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="@vardhan_ysh" height="40" width="40" /></a>
+</p>
+
+
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&layout=donut&theme=dark#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api?username=Vardhan-ysh&show_icons=true&theme=dark#gh-dark-mode-only)
-
 
 
 <h1 align="center">🧑‍💻 Tech Stack:</h1>
