@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRsYnB0MGZuZHl0MnEzMmJ2eWFrM2ZjMHE0ZGswcWV2ZW90azdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQ13UrlrOI1u2sW7gL/giphy.gif))](https://rishavchanda.io)
 # 💫 About Me:
 Currently pursuing B.Tech from JSSATE, Noida with Artificial Intelligence and Machine Learning. <br>Skilled in problem solving and DSA topics in Java, Python, and C. <br>Android Developer with proficiency in Flutter framework and Dart language.<br><br>Currently seeking internship opportunities to expand skill set.<br><br>⭕Android Development (Flutter & Dart)<br>⭕Problem Solving (Java, Python)<br><br>Yashvardhan Singh,<br><br><br>Connect at: https://www.linkedin.com/in/vardhan-ysh<br><br><br>
 <br><br>
