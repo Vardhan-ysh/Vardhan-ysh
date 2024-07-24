@@ -16,7 +16,6 @@
 
 📫 Reach me @**yashvardhansingh112233@gmail.com**
 
-<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,14 +26,16 @@
 </p>
 
 
-<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&layout=donut&theme=dark#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=Vardhan-ysh&show_icons=true&theme=dark#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-ysh&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages" />
+</p>
+
+<br>
 
 
 <h1 align="center">🧑‍💻 Tech Stack:</h1>
-<p align="left"> 
+<p align="center"> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </a>
