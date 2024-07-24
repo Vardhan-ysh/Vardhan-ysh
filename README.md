@@ -9,7 +9,7 @@
   <li>Sophomore at JSSATE Noida, pursuing B.Tech with Computer Science.</li>
   <li>Developing creative cross-platform mobile apps and bringing ideas to reality.</li>
   <li>Actively diving into the world of competitive programming, finding harder and harder problems to solve each day.</li>
-  <li>Learning skills in AI and Cloud Computing.</li>
+  <li>Learning skills in AI, Cloud Computing, and Backend development.</li>
 </ul>
 
 <p></p>
