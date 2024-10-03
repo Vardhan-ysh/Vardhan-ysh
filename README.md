@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpiha2llYLdUbvAvoeWwmfiOxT4traHtAk0ga4IpL-3tLccv1tvRrDfBEQhKDNPCEe1rQEOIirjKjqEX3u-b7EAqMbwQfyl56y4iw=s2560" alt="MasterHead" />
+  <img src="https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/09/14120619/Hire-Flutter-Developer-Banner-Image-1.jpg" alt="MasterHead" />
 </p>
 
 <br>
