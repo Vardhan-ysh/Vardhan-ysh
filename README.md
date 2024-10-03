@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/09/14120619/Hire-Flutter-Developer-Banner-Image-1.jpg" alt="MasterHead" />
+  <img src="https://assets-global.website-files.com/5ef9f09160a5c429970bc031/642815e98fbcbed931bfb3e6_Flutter%20Animations_Cover-p-2600.png" alt="MasterHead" />
 </p>
 
 <br>
